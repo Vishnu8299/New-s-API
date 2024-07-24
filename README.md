@@ -67,6 +67,24 @@ Checks if the API response contains an error status.
 Displays an error message or a 'No articles found' message if applicable.
 
 
+## How It Works
+
+- **cURL**: The PHP script uses cURL to send an HTTP request to the NewsAPI.
+- **JSON Handling**: The response is decoded from JSON format into an associative array.
+- **HTML Output**: The news articles are displayed in an HTML list format. Each article includes the title, description, and a link to read more.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+If you have suggestions or improvements, please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## Contact
+
+For any questions or feedback, please reach out to vishnuvardhanv046@gmail.com 
+
 
 ## Summary:
 
