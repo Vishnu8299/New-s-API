@@ -17,6 +17,14 @@ The application uses PHP to make a cURL request to the NewsAPI and retrieve news
 - An API key from [NewsAPI](https://newsapi.org/)
 
 
+Video-Output :-
+
+https://github.com/user-attachments/assets/b86e3013-893d-43d2-b1a9-7ad7525f42d2
+
+
+
+
+
 
 
 This HTML document is a simple web page that displays news articles related to "apple" fetched from an external news API. Here's a breakdown of the code:
